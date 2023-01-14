@@ -1,6 +1,6 @@
 ### HELLO 🙌
-![nawongong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawongong&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawongong&layout=compact&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+![nawongong's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nawongong&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nawongong&layout=compact&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 ### <h1>Skills👩‍💻</h1>
 ### <p>Platforms & Languages
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp;&nbsp;<br><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></p>
